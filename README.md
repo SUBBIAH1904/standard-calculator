@@ -162,4 +162,5 @@ function calculate()
 
 ## Result:
 
+
 The calculator application has been created succesfully.
