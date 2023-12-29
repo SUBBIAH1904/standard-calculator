@@ -154,9 +154,12 @@ function calculate()
 
 ```
 
+
 ## OUTPUT:
 
 ![output](https://github.com/SUBBIAH1904/standard-calculator/assets/147473604/1ef19b36-7e0a-41e2-9e30-4d97eab2360e)
 
+
 ## Result:
+
 The calculator application has been created succesfully.
